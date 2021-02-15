@@ -1,12 +1,3 @@
-<!-- default file list -->
-*Files to look at*:
+# This example is obsolete
 
-<!-- default file list end -->
-# How to configure dxExporter
-
-
-This is the project that you will get if you go though the <a href="http://js.devexpress.com/Documentation/Howto/Data_Visualization/Common/Widget_Export?version=14_1">Widget Export</a> help topic and <a href="http://www.youtube.com/watch?v=BYOFwqdEK7Y&index=31&list=PL8h4jt35t1wjGvgflbHEH_e3b23AA30-z">Exporting Charts</a> video tutorial.
-
-<br/>
-
-
+<p>From v18.1, the DevExtreme hybrid mobile-related tools, including DevExtreme SPA Framework, are deprecated. See <a href="https://community.devexpress.com/blogs/aspnet/archive/2018/02/26/devextreme-hybrid-mobile-tools-deprecation-in-v18-1.aspx"><u>this blog post</u></a> for more information. The mobile tools documentation was removed from the newer versions, but you can still find it in <a href="https://js.devexpress.com/Documentation/17_2/Guide/SPA_Framework/Application_Development/"><u>the older versions</u></a>.</p>
